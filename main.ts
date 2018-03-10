@@ -7,8 +7,8 @@
 /**
  * Four Digit Display 模块
  */
-//% weight=100 color=#64C800 icon="日"
-namespace FourDigitDisplay {
+//% weight=100 color=#64C800 icon="★"
+namespace Magibit {
 
     let COMMAND_I2C_ADDRESS = 0x24
     let DISPLAY_I2C_ADDRESS = 0x34
