@@ -1,5 +1,5 @@
 {
-    "name": "FourDigitDisplay",
+    "name": "Magibit",
     "version": "1.0.0",
     "description": "makecode 4 位数码管显示 (TM1650) 的 microbit 软件包",
     "license": "MIT",
